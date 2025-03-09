@@ -2,4 +2,8 @@ Hello world!
 
 I'm in the dev branch now!
 
+<<<<<<< HEAD
 I'm still on the Main branch!
+=======
+And now, I'm in the Conflict branch!
+>>>>>>> conflict
